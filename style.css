@@ -38,3 +38,7 @@ a {
 a:visited {
   color: #6c71c4;
 }
+
+.headshot {
+  border-radius: 50%;
+}
