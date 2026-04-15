@@ -38,3 +38,16 @@ a {
 a:visited {
   color: #6c71c4;
 }
+
+.about {
+  display: flex;
+  align-items: center;
+}
+
+.right {
+  max-width: 25%;
+  flex: 1 1 25%;
+}
+img{
+  max-width: 100%;
+}
